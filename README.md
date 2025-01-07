@@ -1,4 +1,4 @@
-## Olá, eu sou a Stefanne Victoria Andrade Soares! 👋
+# Olá, eu sou a Stefanne Victoria Andrade Soares! 👋
 
 Sou **Estudante de Engenharia da Computação no Inteli**, apaixonada por tecnologia e com o propósito de usar meus conhecimentos para democratizar a educação e criar um impacto social positivo. Acredito que a educação pode transformar futuros e abrir portas para um mundo mais inclusivo. 
 
@@ -39,7 +39,7 @@ Minha buddy é a **Rafaella**, uma estudante incrível que está trilhando seu c
 
 ---
 
-## Obrigado por visitar meu perfil! 🙌
+### Obrigado por visitar meu perfil! 🙌
 Fique à vontade para explorar e se conectar! 😊
 
 
