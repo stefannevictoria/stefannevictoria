@@ -2,10 +2,6 @@
 
 Sou **Estudante de Engenharia da Computação no Inteli**, apaixonada por tecnologia e com o propósito de usar meus conhecimentos para democratizar a educação e criar um impacto social positivo. Acredito que a educação pode transformar futuros e abrir portas para um mundo mais inclusivo. 
 
-### Peculiaridade
-🏊 Adoro nadar! A piscina é o meu lugar para relaxar e encontrar inspiração.
-
----
 
 ## Minhas Habilidades 🚀
 - **Linguagens:** JavaScript, HTML, CSS
@@ -22,8 +18,13 @@ Atualmente, estou me dedicando a aprofundar meus conhecimentos em programação 
 
 ---
 
-## Meu Buddy 🤝
+### Meu Buddy 🤝
 Minha buddy é a **Rafaella**, uma estudante incrível que está trilhando seu caminho no Inteli ao meu lado. Aqui está o link para o GitHub dela: [GitHub da Rafaella](https://github.com/SEU-BUDDY-AQUI).
+
+---
+
+### Peculiaridade
+🏊 Adoro nadar! A piscina é o meu lugar para relaxar e encontrar inspiração.
 
 ---
 
