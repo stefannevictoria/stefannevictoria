@@ -22,7 +22,7 @@ Atualmente, estou me dedicando a aprofundar meus conhecimentos em programação 
 ---
 
 ### Meu Buddy 🤝
-Minha buddy é a **Rafaella**, uma estudante incrível que está trilhando seu caminho no Inteli ao meu lado. Aqui está o link para o GitHub dela: [GitHub da Rafaella](https://github.com/SEU-BUDDY-AQUI).
+Minha buddy é a **Rafaella**, uma estudante incrível que está trilhando seu caminho no Inteli ao meu lado. Aqui está o link para o GitHub dela: [GitHub da Rafaella](https://github.com/RafaellaCavalcante).
 
 ---
 
