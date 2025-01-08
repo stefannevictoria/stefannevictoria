@@ -1,4 +1,7 @@
-# Olá, eu sou a Stefanne Victoria Andrade Soares! 👋
+<p align="center">
+  <img height="100" src="https://github.com/stefannevictoria/stefannevictoria/blob/main/IMG_1879.jpeg">
+</p>
+
 
 Sou **Estudante de Engenharia da Computação no Inteli**, apaixonada por tecnologia e com o propósito de usar meus conhecimentos para democratizar a educação e criar um impacto social positivo. Acredito que a educação pode transformar futuros e abrir portas para um mundo mais inclusivo. 
 
