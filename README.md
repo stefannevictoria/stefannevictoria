@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="https://github.com/stefannevictoria/stefannevictoria/blob/main/IMG_1879.jpeg">
+  <img height="100" src="https://github.com/stefannevictoria/stefannevictoria/blob/main/IMG_1879.jpeg" alt="Olá, eu sou a Stefanne">
 </p>
 
 
